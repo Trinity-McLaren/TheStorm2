@@ -5,6 +5,14 @@
 <meta charset="UTF-8">
 <title>The Storm.html</title>
 </head> 
+	<style>
+	body {
+	background-image: url("Cover.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	}
+	</style>
 <body>
 
 	
