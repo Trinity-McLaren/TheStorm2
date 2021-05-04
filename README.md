@@ -4,16 +4,16 @@
 <meta charset="UTF-8">
 <title>The Storm.html</title>
 </head> 
-<style>
-	body {
+
+<body>
+<style
+body {
 	background-image: url("Cover.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
 	}
 	</style>
-<body>
-
 	
 	<h1 style="color:#284B63; font-family:Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif'; font-size: 75pt" title=":)">The Storm</h1>
 	
