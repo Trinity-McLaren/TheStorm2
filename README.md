@@ -4,14 +4,14 @@
 <meta charset="UTF-8">
 <title>The Storm.html</title>
 </head> 
-html {
-	background: url(/Cover.jpg) no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
+<style>
+	body {
+	background-image: url("Cover.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 	background-size: cover;
-}
-	
+	}
+	</style>
 <body>
 
 	
