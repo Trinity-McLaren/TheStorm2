@@ -1,5 +1,4 @@
 # TheStorm2
-<!doctype html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
